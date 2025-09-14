@@ -32,7 +32,7 @@ If you like this project, please give it a ⭐ and link back to [Temoor-49](http
 
 ## Built With
 
-My personal portfolio <a href="." target="_blank">.</a> which features some of my GitHub projects, education, technical skills, and resume.<br/>
+My personal portfolio <a href="https://tem-folio.vercel.app/" target="_blank">tem-folio-folio.vercel.app</a> which features some of my GitHub projects, education, technical skills, and resume.<br/>
 
 This project was built using these technologies:
 
